@@ -40,7 +40,7 @@ I'm a passionate software developer with over 5+ years of experience in building
 
 ## 📢 Let's Connect
 💼 [LinkedIn](https://www.linkedin.com/in/sakthivelgovinthan)  
-📧 [Email](mailto:sakthivel@quickappstudio.com)  
+📧 [Email](mailto:sakthiveltechit@gmail.com)  
 🌍 [Website](https://quickappstudio.com)  
 
 Thanks for visiting my profile! 🚀 Let's build something amazing together!
