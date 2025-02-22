@@ -1,6 +1,6 @@
 # Hi there! I'm Sakthivel Govinthan 👋
 
-🚀 **Founder & CEO of Quick App Studio** | **Tech Entrepreneur** | **Full Stack Developer**
+**Founder & CEO of Quick App Studio** | **Tech Entrepreneur** | **Full Stack Developer**🚀 !!!...
 
 ## About Me
 I'm a passionate software developer with over 5+ years of experience in building scalable applications, leading tech teams, and launching innovative products. My expertise spans across **full-stack development, UI/UX design, DevOps, automation, and software architecture.**
